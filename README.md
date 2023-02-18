@@ -1,3 +1,3 @@
-# Hook and useState
+# Continuing on with Hook and useState
 
-for a basic react form component
+building off of [https://github.com/c-uliano/hook-form](https://github.com/c-uliano/hook-form) 
